@@ -1,4 +1,4 @@
-#HOMEWORK 12 OVERVIEW--
+#HOMEWORK 12 OVERVIEW#
 
 This repository contains homework assignment 12 (MySQL + node.js) from the Georgia Tech Coding Bootcamp.
 
