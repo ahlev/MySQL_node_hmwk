@@ -5,6 +5,7 @@ This repository contains homework assignment 12 (MySQL + node.js) from the Georg
 File **bamazon.sql** was used to create and populate a database containing a table called 'products' (using MySQL Workbench) . The bamazon.sql file also defines the unique schema of that table.
 
 [**Click here for a working demonstration of this application**](https://youtu.be/tYyRmf_zvTQ)
+
 [NOTE: audio is a bit fuzzy and loud -- suggest turning system volume to ~50% before playing. Thanks. :)]
 
 
